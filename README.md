@@ -29,8 +29,6 @@ https://localhost:7213/swagger
 
 ---
 
----
-
 ## 🏗️ Architecture
 
 ```
